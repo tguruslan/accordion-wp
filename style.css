@@ -1,0 +1,10 @@
+.panel-heading{
+    background: none repeat scroll 0 0 #3498db;
+    border: 1px solid #ddd;
+    color: #fff;
+    line-height: normal;
+    padding: 10px;
+}
+.panel-group>br{display:none;}
+.panel-heading i{float:right;}
+.panel-collapse.collapse{display:none;}
